@@ -20,7 +20,7 @@ make
 
 Replace `<filter_option>` with one of the following options:
 
-- `-bw` or `-blackwhite` for Black and White filter
+- `-b` or `-blackwhite` for Black and White filter
 - `-s` or `-sepia` for Sepia filter
 - `-b` or `-blur` for Blur filter
 - `-m` or `-mirror` for Mirror effect
