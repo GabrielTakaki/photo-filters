@@ -42,18 +42,6 @@ Replace `<input_file.bmp>` with the path to your input BMP image file and `<outp
 
 The program reads the input BMP image, applies the selected filter, and saves the modified image to the specified output file.
 
-## File Structure
-
-```
-.
-├── main.c             # Main program source code
-├── bmp_image.h        # BMP image processing functions header
-├── bmp_image.c        # BMP image processing functions implementation
-├── Makefile           # Makefile for compilation
-├── input-file.bmp     # Sample input BMP image (replace with your own)
-└── README.md          # Project README (this file)
-```
-
 ## Acknowledgments
 
 This project is inspired by the need to apply various image effects to BMP images using C programming. It demonstrates basic file I/O and image processing techniques.
