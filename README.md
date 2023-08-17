@@ -1,7 +1,5 @@
 # Image Filter Project: BMP Image Effects
 
-This C project allows you to apply various image filters to a given BMP image, including black and white, sepia, blur, and mirror effects. The program accepts two command-line arguments: the input image file and the output file. For applying the sepia filter, use the `-s` flag.
-
 ## Usage
 
 Follow these steps to compile and use the program:
